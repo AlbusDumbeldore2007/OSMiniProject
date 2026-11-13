@@ -1,0 +1,21 @@
+Recording CPU and memory usage every 1 second for 15 seconds...
+  Second  1: CPU= 1.63%  Memory=35.66%
+  Second  2: CPU= 1.81%  Memory=35.66%
+  Second  3: CPU= 1.75%  Memory=35.66%
+  Second  4: CPU= 1.50%  Memory=35.66%
+  Second  5: CPU= 1.88%  Memory=35.66%
+  Second  6: CPU= 1.69%  Memory=35.66%
+  Second  7: CPU= 2.19%  Memory=35.66%
+  Second  8: CPU= 1.81%  Memory=35.63%
+  Second  9: CPU= 1.75%  Memory=35.63%
+  Second 10: CPU= 1.69%  Memory=35.63%
+  Second 11: CPU= 1.57%  Memory=35.63%
+  Second 12: CPU= 1.50%  Memory=35.63%
+  Second 13: CPU= 2.25%  Memory=35.66%
+  Second 14: CPU= 1.69%  Memory=35.68%
+  Second 15: CPU= 1.44%  Memory=35.68%
+
+Saved outputs:
+  /home/xiren/Work/OSMiniProject/outputs/cpu_memory_usage.csv
+  /home/xiren/Work/OSMiniProject/outputs/cpu_graph.png (svg-convert)
+  /home/xiren/Work/OSMiniProject/outputs/memory_graph.png (svg-convert)

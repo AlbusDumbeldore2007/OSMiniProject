@@ -1,0 +1,10 @@
+============================================================
+PART 1: BASIC SYSTEM INFORMATION
+============================================================
+Operating System      : Linux 7.2.8-9-omarchy (#1 SMP PREEMPT_DYNAMIC Sat, 17 Oct 2026 22:09:33 +0000)
+Distribution/Kernel   : Linux-7.2.8-9-omarchy-x86_64-with-glibc2.44
+Number of CPU cores   : 16
+Total RAM             : 23.17 GB (24294636 kB)
+Available RAM         : 14.91 GB (15636568 kB)
+Current system time   : 2026-11-13 14:39:28 
+============================================================
